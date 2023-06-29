@@ -5,3 +5,5 @@
 + softmax usage
 + Convolutional layer creation
 + Exercise: AlexNet
++ ResNet
++ DenseNet
