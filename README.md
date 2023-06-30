@@ -7,3 +7,5 @@
 + Exercise: AlexNet
 + ResNet
 + DenseNet
++ RNN
++ TimeSeriesLSTM
