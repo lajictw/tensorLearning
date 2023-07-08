@@ -9,3 +9,4 @@
 + DenseNet
 + RNN
 + TimeSeriesLSTM
++ GANs (linear)
